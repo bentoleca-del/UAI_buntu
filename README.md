@@ -1,6 +1,6 @@
 # 🧀🔺 UAI_Buntu v0.4.3
 
-Uma distribuição Linux customizada baseada no Ubuntu, desenvolvida por um programador de 11 anos usando o Cubic. O sistema traz um visual escuro moderno com detalhes elegantes em amarelo e marrom, Fastfetch personalizado nativo no terminal e é totalmente limpo de logotipos antigos!
+Uma distribuição Linux customizada baseada no Ubuntu, desenvolvida por um programador de 11 anos usando o Cubic. O sistema traz um visual escuro moderno com detalhes em azul, Fastfetch personalizado nativo!
 
 ---
 
