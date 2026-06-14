@@ -13,6 +13,7 @@ Baixe as 5 partes na sua pasta de `Downloads` e rode este comando único para ju
 ```bash
 cd ~/Downloads && cat UAI_Buntu_part*.zip > UAI_Buntu_completo.zip && unzip UAI_Buntu_completo.zip
 ```
+depois extraia
 
 ### 🪟 No Windows (Interface Gráfica)
 1. Baixe as 5 partes na mesma pasta (ex: `Downloads`).
